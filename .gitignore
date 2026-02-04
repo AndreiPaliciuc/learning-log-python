@@ -1,0 +1,18 @@
+# Python virtualvenvironments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm / IntelliJ
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Planned Projects/Lektions
+05_numbers/06_operators/07_if_elif_else/08_comparisons_logic/09_while_loop/10_for_loop/02_mini_projects/03_data_structures_and_flow/04_files_errors_oop
