@@ -36,5 +36,10 @@ Fachinformatiker für Anwendungsentwicklung (FiAE).
 06 - User_Input
    - Ordner: `01_basics/06_user_input/`
 
+### 02_mini_projects
+
+01 - Mini Project: Simple Calculator
+   - Ordner: `02_mini_projects/01_simple_calculator/`
+
 ## Hinweis
 Dieses Repository dient als Lernprotokoll und wird schrittweise erweitert.
