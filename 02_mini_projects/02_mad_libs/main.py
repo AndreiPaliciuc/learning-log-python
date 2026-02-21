@@ -1,0 +1,12 @@
+adjective1 = input("Enter an adjective: ").strip()
+adjective2 = input("Enter another adjective: ").strip()
+noun = input("Enter a noun: ").strip()
+verb = input("Enter a verb: ").strip()
+place = input("Enter a place: ").strip()
+celebrity = input("Enter a celebrity: ").strip()
+
+print("\n--- Best Mad Libs Story ---")
+print("Today was a " + adjective1 + " day.")
+print("I met a " + adjective2 + " " + noun + " at the " + place + ".")
+print("Then we decided to " + verb + " together.")
+print("Suddenly, " + celebrity + " appeared and clapped. The end.")
