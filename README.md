@@ -41,5 +41,8 @@ Fachinformatiker für Anwendungsentwicklung (FiAE).
 01 - Mini Project: Simple Calculator
    - Ordner: `02_mini_projects/01_simple_calculator/`
 
+02 - Mini Project: Mad Libs
+   - Ordner: `02_mini_projects/02_mad_libs/`
+
 ## Hinweis
 Dieses Repository dient als Lernprotokoll und wird schrittweise erweitert.
