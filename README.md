@@ -44,5 +44,16 @@ Fachinformatiker für Anwendungsentwicklung (FiAE).
 02 - Mini Project: Mad Libs
    - Ordner: `02_mini_projects/02_mad_libs/`
 
+### 03_data_structures_and_flow
+
+01 - Lesson: Lists
+   - Ordner: `03_data_structures_and_flow/01_lists/`
+
+02 - Lesson: List Functions
+   - Ordner: `03_data_structures_and_flow/02_list_functions/`
+
+03 - Lesson: Tuples
+   - Ordner: `03_data_structures_and_flow/03_tuples/`
+
 ## Hinweis
 Dieses Repository dient als Lernprotokoll und wird schrittweise erweitert.
