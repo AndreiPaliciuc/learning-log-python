@@ -1,6 +1,3 @@
-from email.policy import default
-
-
 def main() -> None:
     print("Simple Calculator")
 
