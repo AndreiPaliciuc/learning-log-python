@@ -7,7 +7,7 @@ Dieses Mini-Projekt ist eine kleine Übung für:
 - `.strip()` (entfernt Leerzeichnen am Anfang und Ende)
 
 ## Was macht das program?
-Das program fragt den Benutzer nach Mehrere Wörtern (Adjektiv, Nomen, Verb, Ort, Promi) und baut daraus eine kurze Geschichte.
+Das program fragt den Benutzer nach mehrere wörtern (Adjektiv, Nomen, Verb, Ort, Promi) und baut daraus eine kurze Geschichte.
 
 Abfrage:
 - Adjektiv 1
